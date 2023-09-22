@@ -1,7 +1,10 @@
 name = "MetropolisRules"
 uuid = "d7583257-2d3b-486d-b93f-702fcfec9f7b"
 authors = ["JFdCD <jfdecd@icloud.com>"]
-version = "1.0.0-DEV"
+version = "1.0.0"
+
+[deps]
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
 [compat]
 julia = "1.9"
