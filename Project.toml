@@ -1,0 +1,7 @@
+name = "MetropolisRules"
+uuid = "d7583257-2d3b-486d-b93f-702fcfec9f7b"
+authors = ["JFdCD <jfdecd@icloud.com>"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.9"
